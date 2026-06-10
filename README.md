@@ -1522,6 +1522,7 @@ Table of Contents
 - [Mila Robot Learning Seminar - Montreal Robotics](https://www.youtube.com/@MontrealRobotics/playlists)
 - [Johns Hopkins Learning, Estimation, and Control spring 2026, by Reza Shadmehr](https://temp.shadmehrlab.org/courses_learning)[Youtube](https://youtube.com/playlist?list=PLbROvBk7LN5SA7yzmmV7-sLnaXBc3YnHO)
 - [SUSTech ME424 Modern Control and Estimation ( Kalman Filter Theory ) fall 2021, by Wei Zhang](https://wzhanglab.site/teaching/moderncontrolestimation/)[Youtube 1](https://youtube.com/playlist?list=PLYkCanigA7S4N4FAXu4ABmwuC7yHDL6_v)[Youtube 2](https://youtube.com/playlist?list=PLYkCanigA7S4AWI0INZJ5e0WrxFlp4oWH)
+- [Robot Learning - ETH Zurich](https://cvg.ethz.ch/lectures/Robot-Learning/) ([Youtube](https://www.youtube.com/playlist?list=PLPU18BnWYUZJx3_d901-GD6BGpeWwE2vx), [Guest lectures](https://www.youtube.com/playlist?list=PLPU18BnWYUZIpmc2GuFlSXVGJxXZVeZ2B))
 
 
 ------------------------------
